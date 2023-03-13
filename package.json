@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "en": "cd src/en && pnpx affine-exporter -w fDTUaZ5qmV-MYIBnFKuQz",
+    "affine:pull": "cd src/en && pnpx affine-exporter -w fDTUaZ5qmV-MYIBnFKuQz",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
